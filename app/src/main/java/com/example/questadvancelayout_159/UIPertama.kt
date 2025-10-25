@@ -39,7 +39,7 @@ fun ProfilScreen(modifier: Modifier = Modifier) {
             painter = painterResource(id = R.drawable.foto_saya),
             contentDescription = "Profile Photo",
             modifier = Modifier
-                .size(100.dp)
+                .size(115.dp)
                 .clip(CircleShape)
                 .border(3.dp, Color.Gray, CircleShape),
             contentScale = ContentScale.Crop
@@ -50,7 +50,7 @@ fun ProfilScreen(modifier: Modifier = Modifier) {
         Text(
             text = "Muhammad Dzulfikri",
             color = Color.White,
-            fontSize = 22.sp
+            fontSize = 20.sp
         )
 
         Text(
