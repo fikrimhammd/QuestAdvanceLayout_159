@@ -50,12 +50,12 @@ fun ProfilScreen(modifier: Modifier = Modifier) {
         Text(
             text = "Muhammad Dzulfikri",
             color = Color.White,
-            fontSize = 20.sp
+            fontSize = 22.sp
         )
 
         Text(
             text = "@Dzulfikri08",
-            color = Color.Gray,
+            color = Color.White,
             fontSize = 14.sp
         )
 
