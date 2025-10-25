@@ -1,8 +1,24 @@
 <resources>
+    <!-- App Name -->
     <string name="app_name">My UIPertama</string>
-    <string name="prodi">Teknologi Informasi</string>
-    <string name="univ">Universitas Muhammadiyah yogyakarta</string>
-    <string name="nama">Dzulfikri</string>
+
+    <!-- Data Profil -->
+    <string name="nama">Muhammad Dzulfikri</string>
+    <string name="username">@Dzulfikri08</string>
+    <string name="prodi">Saya seorang Mahasiswa Teknologi Informasi</string>
     <string name="alamat">Godean, Sleman</string>
-    <string name="copy">copyright, 2025</string>
+
+    <!-- Sosial Media URL -->
+    <string name="url_instagram">https://instagram.com/</string>
+    <string name="url_facebook">https://facebook.com/</string>
+    <string name="url_whatsapp">https://wa.me/6281234567890</string>
+    <string name="url_linkedin">https://linkedin.com/</string>
+
+    <!-- Menu -->
+    <string name="menu_privacy">Privacy</string>
+    <string name="menu_riwayat">Riwayat Transaksi</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+
+    <!-- Footer -->
+    <string name="copy">Copyright, 2025</string>
 </resources>
